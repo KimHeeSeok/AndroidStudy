@@ -1,4 +1,4 @@
-package kr.pe.sylark.recyclerviewtestapp;
+package kr.sylark.recyclerviewtestapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
